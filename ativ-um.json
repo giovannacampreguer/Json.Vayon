@@ -1,0 +1,113 @@
+{
+  "n_cotacao": 192839,
+  "data": "2023-10-01",
+  "proponente": {
+    "nome": "João da Silva",
+    "dt_nascimento": "1985-05-15",
+    "cpf": "123.456.789-00"
+  },
+  "produto": {
+    "nome": "Empresarial",
+    "cod": "EMP1312",
+    "versao": 1
+  },
+  "itens": [
+    {
+      "localRisco": {
+        "cep": "12345-678",
+        "cidade": "São Paulo",
+        "estado": "SP",
+        "endereco": "Rua das Flores, 123"
+      },
+      "valorD": 20349.50,
+      "valorL": 25000.00,
+      "coberturas": [
+        {
+          "nome": "Incêndio",
+          "tipo": "Básica",
+          "valor": 15000.00
+        },
+        {
+          "nome": "Roubo",
+          "tipo": "Adicional",
+          "valor": 5000.00
+        },
+        {
+          "nome": "Responsabilidade Civil",
+          "tipo": "Adicional",
+          "valor": 10000.00
+        },
+        {
+          "nome": "Danos Elétricos",
+          "tipo": "Adicional",
+          "valor": 3000.00
+        },
+        {
+          "nome": "Lucros Cessantes",
+          "tipo": "Adicional",
+          "valor": 2000.00
+        }
+      ]
+    },
+    {
+      "localRisco": {
+        "cep": "12345-678",
+        "cidade": "São Paulo",
+        "estado": "SP",
+        "endereco": "Rua das Flores, 902"
+      },
+      "valorD": 30000.00,
+      "valorL": 15000.00,
+      "coberturas": [
+        {
+          "nome": "Incêndio",
+          "tipo": "Básica",
+          "valor": 37000.00
+        },
+        {
+          "nome": "Roubo",
+          "tipo": "Adicional",
+          "valor": 8000.00
+        },
+        {
+          "nome": "Danos Elétricos",
+          "tipo": "Adicional",
+          "valor": 3000.00
+        }
+      ]
+    },
+    {
+      "localRisco": {
+        "cep": "87654-321",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "endereco": "Avenida Atlântica, 456"
+      },
+      "valorD": 91500.50,
+      "valorL": 70300.00,
+      "coberturas": [
+        {
+          "nome": "Incêndio",
+          "tipo": "Básica",
+          "valor": 13000.00
+        },
+        {
+          "nome": "Roubo",
+          "tipo": "Adicional",
+          "valor": 90000.00
+        },
+        {
+          "nome": "Responsabilidade Civil",
+          "tipo": "Adicional",
+          "valor": 35000.00
+        },
+        {
+          "nome": "Danos Elétricos",
+          "tipo": "Adicional",
+          "valor": 7000.00
+        }
+      ]
+    }
+  ],
+  "premio": 1500000.00
+}

@@ -1,0 +1,192 @@
+[
+    {
+        "n_cotacao": 287623,
+        "data": "2023/10/02",
+        "proponente": {
+            "nome": "Carla Mendes",
+            "dt_nascimento": "1990/08/22",
+            "cpf": "987.654.321/99"
+        },
+        "produto": {
+            "nome": "Residencial",
+            "cod": "RES2024",
+            "versao": 2
+        },
+        "itens": [
+            {
+                "localRisco": {
+                    "cep": "11030/200",
+                    "cidade": "Santos",
+                    "estado": "SP",
+                    "endereco": "Rua do Porto, 45"
+                },
+                "valorD": 15000.00,
+                "valorL": 10000.00,
+                "coberturas": [
+                    { "nome": "Incêndio", "tipo": "Básica", "valor": 10000.00 },
+                    { "nome": "Roubo", "tipo": "Adicional", "valor": 3000.00 },
+                    { "nome": "Danos Elétricos", "tipo": "Adicional", "valor": 2000.00 }
+                ]
+            }
+        ],
+        "premio": 850000.00
+    },
+    {
+        "n_cotacao": 234523,
+        "data": "2023/10/03",
+        "proponente": {
+            "nome": "Lucas Ferreira",
+            "dt_nascimento": "1995/06/10",
+            "cpf": "789.123.456/22"
+        },
+        "produto": {
+            "nome": "Comercial",
+            "cod": "COM3123",
+            "versao": 3
+        },
+        "itens": [
+            {
+                "localRisco": {
+                    "cep": "40010/000",
+                    "cidade": "Salvador",
+                    "estado": "BA",
+                    "endereco": "Av. Sete de Setembro, 100"
+                },
+                "valorD": 50000.00,
+                "valorL": 45000.00,
+                "coberturas": [
+                    { "nome": "Incêndio", "tipo": "Básica", "valor": 25000.00 },
+                    { "nome": "Roubo", "tipo": "Adicional", "valor": 10000.00 },
+                    { "nome": "Responsabilidade Civil", "tipo": "Adicional", "valor": 8000.00 },
+                    { "nome": "Lucros Cessantes", "tipo": "Adicional", "valor": 2000.00 }
+                ]
+            },
+            {
+                "localRisco": {
+                    "cep": "40010/001",
+                    "cidade": "Salvador",
+                    "estado": "BA",
+                    "endereco": "Av. Sete de Setembro, 200"
+                },
+                "valorD": 30000.00,
+                "valorL": 25000.00,
+                "coberturas": [
+                    { "nome": "Incêndio", "tipo": "Básica", "valor": 15000.00 },
+                    { "nome": "Roubo", "tipo": "Adicional", "valor": 5000.00 },
+                    { "nome": "Danos Elétricos", "tipo": "Adicional", "valor": 3000.00 }
+                ]
+            }
+        ],
+        "premio": 650000.00
+    },
+    {
+        "n_cotacao": 109722,
+        "data": "2023/10/04",
+        "proponente": {
+            "nome": "Fernanda Souza",
+            "dt_nascimento": "1982/12/03",
+            "cpf": "456.789.123/11"
+        },
+        "produto": {
+            "nome": "Industrial",
+            "cod": "IND6543",
+            "versao": 4
+        },
+        "itens": [
+            {
+                "localRisco": {
+                    "cep": "30130/110",
+                    "cidade": "Belo Horizonte",
+                    "estado": "MG",
+                    "endereco": "Rua da Indústria, 250"
+                },
+                "valorD": 120000.00,
+                "valorL": 110000.00,
+                "coberturas": [
+                    { "nome": "Incêndio", "tipo": "Básica", "valor": 60000.00 },
+                    { "nome": "Danos Elétricos", "tipo": "Adicional", "valor": 15000.00 },
+                    { "nome": "Responsabilidade Civil", "tipo": "Adicional", "valor": 30000.00 }
+                ]
+            },
+            {
+                "localRisco": {
+                    "cep": "30130/110",
+                    "cidade": "Belo Horizonte",
+                    "estado": "MG",
+                    "endereco": "Rua da Indústria, 250"
+                },
+                "valorD": 80000.00,
+                "valorL": 60000.00,
+                "coberturas": [
+                    { "nome": "Incêndio", "tipo": "Básica", "valor": 40000.00 },
+                    { "nome": "Roubo", "tipo": "Adicional", "valor": 10000.00 }
+                ]
+            }
+        ],
+        "premio": 1800000.00
+    },
+    {
+        "n_cotacao": 209743,
+        "data": "2023/12/01",
+        "proponente": {
+            "nome": "Lucas Ferreira",
+            "dt_nascimento": "1995/06/10",
+            "cpf": "789.123.456/22"
+        },
+        "produto": {
+            "nome": "Agrícola",
+            "cod": "AGR7890",
+            "versao": 1
+        },
+        "itens": [
+            {
+                "localRisco": {
+                    "cep": "75800/000",
+                    "cidade": "Rio Verde",
+                    "estado": "GO",
+                    "endereco": "Fazenda Boa Vista, KM 12"
+                },
+                "valorD": 45000.00,
+                "valorL": 30000.00,
+                "coberturas": [
+                    { "nome": "Incêndio", "tipo": "Básica", "valor": 20000.00 },
+                    { "nome": "Fenômenos da Natureza", "tipo": "Adicional", "valor": 15000.00 },
+                    { "nome": "Roubo", "tipo": "Adicional", "valor": 5000.00 }
+                ]
+            }
+        ],
+        "premio": 320000.00
+    },
+    {
+        "n_cotacao": 312456,
+        "data": "2023/11/15",
+        "proponente": {
+            "nome": "Ana Paula Costa",
+            "dt_nascimento": "1988/04/20",
+            "cpf": "321.654.987/33"
+        },
+        "produto": {
+            "nome": "Saúde",
+            "cod": "SAU4567",
+            "versao": 1
+        },
+        "itens": [
+            {
+                "localRisco": {
+                    "cep": "01000/000",
+                    "cidade": "São Paulo",
+                    "estado": "SP",
+                    "endereco": "Avenida Paulista, 1000"
+                },
+                "valorD": 20000.00,
+                "valorL": 15000.00,
+                "coberturas": [
+                    { "nome": "Internação Hospitalar", "tipo": "Básica", "valor": 12000.00 },
+                    { "nome": "Consultas Médicas", "tipo": "Adicional", "valor": 5000.00 },
+                    { "nome": "Exames Laboratoriais", "tipo": "Adicional", "valor": 3000.00 }
+                ]
+            }
+        ],
+        "premio": 409000.00
+}]
+
