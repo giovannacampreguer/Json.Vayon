@@ -1,3 +1,4 @@
+//3. Retornar se algum item tem o valorL inferior a soma dos valores de todas as coberturas adicionais
 const informacoes = require('./ativ-um.json');
 
 const resultado = informacoes.itens.some(item => {

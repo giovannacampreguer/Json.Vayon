@@ -1,4 +1,4 @@
-
+//3. Retorne o número de todas as cotações que tem localRisco duplicado dentro da própria cotação
 const duplicados = require('./ativ-dois.json');
 
 const resultado = duplicados.filter(cotacao => {

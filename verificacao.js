@@ -1,3 +1,4 @@
+//1. Faça uma função que receba um CNPJ e verifique se ele já existe na lista de cotações
 const verificacao = require('./ativ-dois.json');
 
 function verificarCPF(cpf, cotacoes) {

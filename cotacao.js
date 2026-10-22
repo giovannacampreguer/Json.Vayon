@@ -1,3 +1,4 @@
+//4. Para cada cotação retorne um texto no seguinte formato
 const verificacao = require('./ativ-dois.json');
 
 const resultado = verificacao.map(cotacao => {
